@@ -27,7 +27,7 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 - UBC Card
 - Adapters
 - A water bottle
-- Reusable coffee mug, containers, and cutlery
+- Reusable coffee mug, containers, and cutlery (
 - Laptop and charging cables
 
 ### Venue
@@ -47,8 +47,8 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
 
 - Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about your motivation for choosing this project, and its potential impact.
-- **REQUIRED**: To judge the technical details of your solution, you must nclude an architecture diagram (try out draw.io, or any other tool).
-- **REQUIRED**: You must explain why your solution is sustainable with respect to the potential impacts of its continued usage.
+- **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
+- **REQUIRED**: You must explain why your solution is sustainable with respect to the potential impacts of its continued usage and resources used.
 - **DEADLINE**: There is a hard deadline to submit the link to your public GitHub repository in your Discord team channel by 6:00PM. Late submissions will lead to disqualification.
 
 ### Criteria
@@ -56,10 +56,10 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
 - Creativity and Originality: How innovative and unique is the generated solution? 
 - Technical Implementation: The complexity and effectiveness of the AI model and its integration with the user interface. 
 - User Interaction: The intuitiveness and effectiveness of the user interface in influencing the generated solution. 
-- Cloud deployment: The choices and efficient deployment of cloud services for their solution.  
-- Presentation: The clarity, coherence, and persuasiveness of the final presentation.
-- Sustainable Solution: Does the solution demonstrate a commitment to sustainability (environmental, corporate, or social)?
-
+- Cloud deployment: The choices and efficient deployment of cloud services for their solution.
+- Sustainable Solution: Does the solution demonstrate a commitment to sustainability? Is there consideration given to the potential impacts of the solution's continued usage and the resources used?
+- Presentation: The clarity, coherence, and persuasiveness of the final presentation. 
+  
 ### FAQs
 
 For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
@@ -72,7 +72,7 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ## Resources ⭐️
 
-### What is Sustainability 
+### What is Sustainability?
 
 ### Gen AI Fundamentals
 
@@ -117,6 +117,12 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 - [Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
 - [Build scalable and serverless RAG workflows with a vector engine for Amazon OpenSearch Serverless and Amazon Bedrock Claude models (Blog post)](https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/)
 
+### Example Data Sets:
+
+- [https://open.canada.ca/en] - Open Government Canada
+- [https://www.canada.ca/en/services/environment.html] - Environment and Natural Resources Canada
+- [https://data.gov/] - U.S. Government's Open Data
+
 ---
 
 ### Agents for Bedrock
@@ -139,3 +145,8 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ## Examples / Ideas 🤔
 
+### Alternative Clothing Suggester
+This mobile app enhances online shopping by analyzing the materials and production methods of clothing items. It then suggests eco-friendly alternatives that match the user's style, offering similar articles of clothing made from sustainable materials and produced through ethical practices.
+
+### Distribution Pathing
+This navigation tool uses AI to optimize distribution routes. It analyzes traffic, weather, deadlines, and resource availability. The AI then creates the most efficient paths for transporting goods. It adapts in real-time, reducing fuel consumption, delivery times, and costs. The result is a more sustainable and reliable distribution process.
