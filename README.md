@@ -1,4 +1,4 @@
-# sustain_hackathon_2024
+# Sustainability and AI Innovation Challenge (Title pending) ((suggestions))
 
 ## Introduction
 
