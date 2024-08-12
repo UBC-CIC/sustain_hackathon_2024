@@ -74,6 +74,10 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ### What is Sustainability?
 
+- [https://sustain.ubc.ca/]
+- [https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used]
+- [https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html]
+
 ### Gen AI Fundamentals
 
 - [Introduction to Generative AI - Art of the Possible](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
@@ -145,8 +149,8 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ## Examples / Ideas 🤔
 
-### Alternative Clothing Suggester
-This mobile app enhances online shopping by analyzing the materials and production methods of clothing items. It then suggests eco-friendly alternatives that match the user's style, offering similar articles of clothing made from sustainable materials and produced through ethical practices.
+### Carbon Footprint Optimizer
+Develop a web application that helps users calculate and reduce their carbon footprint. Using generative AI models like GPT-4 integrated with AWS Lambda and Amazon SageMaker, the app could analyze a user's daily habits (e.g., transportation, energy use, diet) and suggest personalized, actionable steps to lower their carbon impact. The app could also generate eco-friendly alternatives for products and services the user frequently uses.
 
-### Distribution Pathing
-This navigation tool uses AI to optimize distribution routes. It analyzes traffic, weather, deadlines, and resource availability. The AI then creates the most efficient paths for transporting goods. It adapts in real-time, reducing fuel consumption, delivery times, and costs. The result is a more sustainable and reliable distribution process.
+### Waste Sorting Assistant
+Create an AI-powered mobile app that helps users sort their waste correctly to improve recycling rates. Using Amazon Rekognition and AWS DeepLens, the app can analyze photos of waste items and provide real-time guidance on whether an item should be recycled, composted, or sent to a landfill. It can also generate tips for reducing waste and alternatives to common non-recyclable items.
