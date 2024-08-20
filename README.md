@@ -1,4 +1,4 @@
-# Sustainability and AI Innovation Challenge (Title pending) ((suggestions))
+# UBC Sustainathon 2024
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 - UBC Card
 - Adapters
 - A water bottle
-- Reusable coffee mug, containers, and cutlery (
+- Reusable coffee mug, containers, and cutlery
 - Laptop and charging cables
 
 ### Venue
