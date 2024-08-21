@@ -91,6 +91,9 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 - [General Prompt Engineering using Party Rock](https://partyrock.aws/u/js2222/zEj353AmT/Prompt-Engineering-Guide-Introduction) - Learn General Prompt Engineering using Party Rock (free to use).
 - [Anthropic Claude on Party Rock](https://partyrock.aws/u/schuylr/proiDgYx9/Claude-Prompt-Engineering-Interactive-Tutorial-Chapter-1) - Learn Anthropic Claude Interactive Prompt Engineering tutorial on Party Rock (free to use).
 - [Anthropic’s Official Documentation](https://docs.anthropic.com/claude/docs/guide-to-anthropics-prompt-engineering-resources) - Anthropic’s Official Prompting Documentation
+- [AWS Bedrock Samples Repository](https://github.com/aws-samples/amazon-bedrock-samples) - AWS's Official GitHub Samples Repository
+- [AWS GenAI Quick Starts](https://github.com/aws-samples/genai-quickstart-pocs/) - AWS's Quick Starts for GenAI Repository
+- [AWS Bedrock PDF Chat](https://github.com/aws-samples/serverless-pdf-chat) - Example of PDF Chat using Amazon Bedrock
 
 ---
 
@@ -126,6 +129,7 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 - [https://open.canada.ca/en] - Open Government Canada
 - [https://www.canada.ca/en/services/environment.html] - Environment and Natural Resources Canada
 - [https://data.gov/] - U.S. Government's Open Data
+- [https://www.kaggle.com] - Kaggle
 
 ---
 
@@ -145,6 +149,7 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [AWS Networking Essentials](https://assorted-market-2d4.notion.site/AWS-Networking-Essentials-cb0e377177eb4bfbbeebc58c8ca180cd)
 - [AWS Technical Essentials](https://assorted-market-2d4.notion.site/AWS-Technical-Essentials-612efb1dde3c4ac1a8a68969b7fd8d5b)
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
+- [AWS Serverless Land](https://serverlessland.com/) - AWS Serverless examples, patterns, documentation and guidance.
 
 
 ## Examples / Ideas 🤔
