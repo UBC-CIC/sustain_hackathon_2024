@@ -1,4 +1,4 @@
-# UBC Sustainathon 2024
+# UBC Generative AI and Sustainability Hackathon 2024
 
 ## Introduction
 
@@ -48,16 +48,16 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
 - Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about your motivation for choosing this project, and its potential impact.
 - **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
-- **REQUIRED**: You must explain why your solution is sustainable with respect to the potential impacts of its continued usage and resources used.
+- **REQUIRED**: You must explain why your solution addresses an issues regarding sustainability.
 - **DEADLINE**: There is a hard deadline to submit the link to your public GitHub repository in your Discord team channel by 6:00PM. Late submissions will lead to disqualification.
 
 ### Criteria
 
-- Creativity and Originality: How innovative and unique is the generated solution? 
+- Creativity and Originality: The innovativeness and uniqueness of the generated solution.
 - Technical Implementation: The complexity and effectiveness of the AI model and its integration with the user interface. 
 - User Interaction: The intuitiveness and effectiveness of the user interface in influencing the generated solution. 
 - Cloud deployment: The choices and efficient deployment of cloud services for their solution.
-- Sustainable Solution: Does the solution demonstrate a commitment to sustainability? Is there consideration given to the potential impacts of the solution's continued usage and the resources used?
+- Sustainability: The extent to which the solution addresses an issue regarding sustainability.
 - Presentation: The clarity, coherence, and persuasiveness of the final presentation. 
   
 ### FAQs
@@ -74,9 +74,9 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ### What is Sustainability?
 
-- [https://sustain.ubc.ca/]
-- [https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used]
-- [https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html]
+- https://sustain.ubc.ca/
+- https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used
+- https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html
 
 ### Gen AI Fundamentals
 
@@ -126,10 +126,10 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 
 ### Example Data Sets:
 
-- [https://open.canada.ca/en] - Open Government Canada
-- [https://www.canada.ca/en/services/environment.html] - Environment and Natural Resources Canada
-- [https://data.gov/] - U.S. Government's Open Data
-- [https://www.kaggle.com] - Kaggle
+- https://open.canada.ca/en - Open Government Canada
+- https://www.canada.ca/en/services/environment.html - Environment and Natural Resources Canada
+- https://data.gov/ - U.S. Government's Open Data
+- https://www.kaggle.com - Kaggle
 
 ---
 
