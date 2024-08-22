@@ -62,7 +62,7 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
   
 ### FAQs
 
-For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
+For frequently asked questions and tips, please visit [FAQs](https://docs.google.com/document/d/1bntohJU4VPZH4nLsNasZp23QJ1u2Kutwwwge3V7k_5k/edit?usp=sharing))
 
 ## Getting Started 🎧
 
@@ -74,9 +74,10 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ### What is Sustainability?
 
-- https://sustain.ubc.ca/ - UBC Sustainability
-- https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used - UCLA Sustainability
-- https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html - Santander Open Academy
+- [UBC Sustainability](https://sustain.ubc.ca/)
+- [UCLA Sustainability](https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used)
+- [What is sustainability? Definition, types and examples
+  Santander Open Academy](https://www.santanderopenacademy.com/en/blog/what-is-sustainability.htm)
 
 ### Gen AI Fundamentals
 
@@ -126,10 +127,10 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 
 ### Example Data Sets:
 
-- https://open.canada.ca/en - Open Government Canada
-- https://www.canada.ca/en/services/environment.html - Environment and Natural Resources Canada
-- https://data.gov/ - U.S. Government's Open Data
-- https://www.kaggle.com - Kaggle
+- [Open Government Canada](https://open.canada.ca/en)
+- [ Environment and Natural Resources Canada](https://www.canada.ca/en/services/environment.html)
+- [U.S. Government's Open Data](https://data.gov/)
+- [Kaggle](https://www.kaggle.com)
 
 ---
 
