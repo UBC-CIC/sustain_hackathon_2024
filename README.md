@@ -74,9 +74,9 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ### What is Sustainability?
 
-- https://sustain.ubc.ca/
-- https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used
-- https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html
+- https://sustain.ubc.ca/ - UBC Sustainability
+- https://www.sustain.ucla.edu/what-is-sustainability/#:~:text=Sustainable%20practices%20support%20ecological%2C%20human,in%20which%20resources%20are%20used - UCLA Sustainability
+- https://www.santanderopenacademy.com/en/blog/what-is-sustainability.html - Santander Open Academy
 
 ### Gen AI Fundamentals
 
