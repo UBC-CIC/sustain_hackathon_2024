@@ -62,7 +62,7 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
   
 ### FAQs
 
-For frequently asked questions and tips, please visit [FAQs](https://docs.google.com/document/d/1bntohJU4VPZH4nLsNasZp23QJ1u2Kutwwwge3V7k_5k/edit?usp=sharing))
+For frequently asked questions and tips, please visit [FAQs](https://docs.google.com/document/d/1bntohJU4VPZH4nLsNasZp23QJ1u2Kutwwwge3V7k_5k/edit?usp=sharing)
 
 ## Getting Started 🎧
 
