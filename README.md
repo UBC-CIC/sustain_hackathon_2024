@@ -5,9 +5,9 @@
 **About Sustainability, Generative AI, and Cloud Computing** <br>
 Sustainability is defined by responsible resource use to ensure long-term benefits for future generations while fostering respect for the planet and all its inhabitants. It emphasizes the integration of ecological, social, and economic well-being to create healthy, resilient communities that can thrive in harmony with their environment.
 
-Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that can create new examples or samples within a given domain, such as images, text, music, or other types of data. <br>
+Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that can create new examples or samples within a given domain, such as images, text, music, or other types of data.
 
-Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is AWS
+Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is AWS.
 
 ## Event Overview 😄
 ### General Schedule
@@ -24,11 +24,15 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 * 8:00PM: End of Hackathon!
 
 ### Item Checklist
+
+#### Necessary
 - UBC Card
 - Adapters
+- Laptop and charging cables
+
+#### Suggested
 - A water bottle
 - Reusable coffee mug, containers, and cutlery
-- Laptop and charging cables
 
 ### Venue
 
@@ -48,7 +52,7 @@ It is behind the Sauder building and sandwiched between Triple O’s and the Leo
 - Total 5 minutes (3 min presentation, 2 min Q&A)
 - We recommend talking about your motivation for choosing this project, and its potential impact.
 - **REQUIRED**: To judge the technical details of your solution, you must include an architecture diagram (try out draw.io, or any other tool).
-- **REQUIRED**: You must explain why your solution addresses an issues regarding sustainability.
+- **REQUIRED**: You must explain why your solution addresses an issue regarding sustainability.
 - **DEADLINE**: There is a hard deadline to submit the link to your public GitHub repository in your Discord team channel by 6:00PM. Late submissions will lead to disqualification.
 
 ### Criteria
