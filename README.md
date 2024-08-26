@@ -25,7 +25,7 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 
 ### Item Checklist
 
-#### Necessary
+#### Required
 - UBC Card
 - Adapters
 - Laptop and charging cables
