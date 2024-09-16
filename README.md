@@ -76,10 +76,6 @@ _The link to the AWS Workshop will be provided closer to the Hackathon_
 
 ## Resources ⭐️
 
-### What is Sustainability?
-
-FILL
-
 ### Gen AI Fundamentals
 
 - [Introduction to Generative AI - Art of the Possible](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
