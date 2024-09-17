@@ -70,9 +70,9 @@ For frequently asked questions and tips, please visit [FAQs](https://docs.google
 
 ## Getting Started 🎧
 
-[Getting Started With AWS Workshop Studio](https://docs.google.com/document/d/1Xst57-bCp3enGVE6tNUdMyf_JzRMoJjjGsm8OS5sznE/edit#heading=h.l5zr9hk1rgza)
+In the week leading up to the event, a workshop on Amazon Bedrock will be posted.
 
-_The link to the AWS Workshop will be provided closer to the Hackathon_
+[Getting Started With AWS Workshop Studio](https://docs.google.com/document/d/1Xst57-bCp3enGVE6tNUdMyf_JzRMoJjjGsm8OS5sznE/edit#heading=h.l5zr9hk1rgza)
 
 ## Resources ⭐️
 
