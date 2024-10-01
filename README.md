@@ -152,5 +152,8 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ## Examples / Ideas 🤔
 
-### Carbon Footprint Optimizer
-Develop a web application that helps users calculate and reduce their carbon footprint. Using generative AI models like GPT-4 integrated with AWS Lambda and Amazon SageMaker, the app could analyze a user's daily habits (e.g., transportation, energy use, diet) and suggest personalized, actionable steps to lower their carbon impact. The app could also generate eco-friendly alternatives for products and services the user frequently uses.
+###Distribution Pathing
+This navigation tool uses AI to optimize distribution routes. It analyzes traffic, weather, deadlines, and resource availability. The AI then creates the most efficient paths for transporting goods. It adapts in real-time, reducing fuel consumption, delivery times, and costs. The result is a more sustainable and reliable distribution process.
+
+###Alternative Clothing Suggester 
+This mobile app enhances online shopping by analyzing the materials and production methods of clothing items. It then suggests eco-friendly alternatives that match the user's style, offering similar articles of clothing made from sustainable materials and produced through ethical practices
