@@ -152,8 +152,8 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ## Examples / Ideas 🤔
 
-###Distribution Pathing
+### Distribution Pathing
 This navigation tool uses AI to optimize distribution routes. It analyzes traffic, weather, deadlines, and resource availability. The AI then creates the most efficient paths for transporting goods. It adapts in real-time, reducing fuel consumption, delivery times, and costs. The result is a more sustainable and reliable distribution process.
 
-###Alternative Clothing Suggester 
+### Alternative Clothing Suggester 
 This mobile app enhances online shopping by analyzing the materials and production methods of clothing items. It then suggests eco-friendly alternatives that match the user's style, offering similar articles of clothing made from sustainable materials and produced through ethical practices
