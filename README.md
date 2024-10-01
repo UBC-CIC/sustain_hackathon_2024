@@ -154,6 +154,3 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ### Carbon Footprint Optimizer
 Develop a web application that helps users calculate and reduce their carbon footprint. Using generative AI models like GPT-4 integrated with AWS Lambda and Amazon SageMaker, the app could analyze a user's daily habits (e.g., transportation, energy use, diet) and suggest personalized, actionable steps to lower their carbon impact. The app could also generate eco-friendly alternatives for products and services the user frequently uses.
-
-### Waste Sorting Assistant
-Create an AI-powered mobile app that helps users sort their waste correctly to improve recycling rates. Using Amazon Rekognition and AWS DeepLens, the app can analyze photos of waste items and provide real-time guidance on whether an item should be recycled, composted, or sent to a landfill. It can also generate tips for reducing waste and alternatives to common non-recyclable items.
