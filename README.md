@@ -152,7 +152,7 @@ Enable generative AI applications to execute multistep tasks across company syst
 
 ## Examples / Ideas 🤔
 
-Where do current tools fall short—and how can you use generative AI to fill those gaps? Here are some examples to get you started.
+Where do current tools fall short? How can you innovate using generative AI to fill those gaps? Here are some examples to get you started.
 
 ### Google Interview Warmup
 A web-based tool developed by Google to help users practice answering common interview questions in a variety of fields, including tech, data, and UX. It uses speech recognition and AI feedback to analyze users' responses, helping them identify strengths and areas for improvement.
